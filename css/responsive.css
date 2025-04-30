@@ -1,0 +1,14 @@
+@media (min-width: 280px) and (max-width: 860px) {
+    .auth-cover {
+        display: flex;
+        flex-direction: column;
+        gap: 5%;
+    }
+
+    .middle-banner {
+        background-size: cover;
+        background-position: center;
+        height: 100%;
+
+    }
+}
